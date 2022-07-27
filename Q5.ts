@@ -1,4 +1,4 @@
-let input: string = 'subi no ônibus';
+let input: string = 'subi no ônibus'; //Informe aqui a string desejada
 
 function reversetString(input: string): string {
     let reverseString: string = '';

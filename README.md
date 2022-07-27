@@ -5,7 +5,7 @@ Repositório feito para mostrar meus conhecimentos técnicos em lógica de progr
 ## Instalação das dependências para compilar e rodar o TS
 
 * Node.js - https://nodejs.org/en/
-* ```npm typescript``` - Instala as dependencias do typescript como o compilador (tsc)
+* ```npm i -g typescript``` - Instala as dependencias do typescript como o compilador (tsc)
 
 ## Rodar o projeto
 
